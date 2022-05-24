@@ -1,0 +1,1 @@
+enum ConnectionStatus { IN_PROGRESS, CONNECTED, DISCONNECTED }
